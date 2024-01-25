@@ -4,6 +4,10 @@ Enginneering Student ......,
 
 # Project : 
 * Heuristic for Capacities Vehicules Routing Problem (CVRP), with use of [SPLIT Heuristic](https://github.com/Kiwy3/OS11).
+* Solveur pour les bus du WEI
+* Simulation Panne et réparation sur Python
+* Trouver un sujet en R
+* Trouver un sujet de prévision de vente
 
 <!--
 **Kiwy3/Kiwy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
