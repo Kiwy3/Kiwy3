@@ -1,25 +1,16 @@
 ### Hi, I'm Nathan 
 
-Enginneering Student ......, 
+I'm an engineering student, interested by the use of data for solving industrial issue. 
 
-# Project : 
-* Heuristic for Capacities Vehicules Routing Problem (CVRP), with use of [SPLIT Heuristic](https://github.com/Kiwy3/OS11).
-* Solveur pour les bus du WEI
+⚡Look at my projects : 
+
+#### [Heuristics to solve a CVRP](https://github.com/Kiwy3/CVRP) <br>
+ <img src="images/CVRP_SPLIT.png" alt="CVRP"> <br> 
+
+#### [Solver to teams distribution in a bus](https://github.com/Kiwy3/Bus_wei) <br>
+
+<!--
 * Simulation Panne et réparation sur Python
 * Trouver un sujet en R
 * Trouver un sujet de prévision de vente
-
-<!--
-**Kiwy3/Kiwy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
