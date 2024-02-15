@@ -28,7 +28,13 @@ I'm an engineering student, interested by the use of data for solving industrial
  
 </details>
 
-
+<details><summary> Basic programming </summary>
+ 
+ <strong> 📐 [Polygon Class and function using C++](https://github.com/Kiwy3/cpp_polygon) </strong> <br>
+ * Polygon class, with useful fonction to use polygon (convex, simple ... ) 
+ * ⚙ C++
+ 
+</details>
 
 <!--
 * Trouver un sujet en R
