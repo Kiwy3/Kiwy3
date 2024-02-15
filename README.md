@@ -3,6 +3,15 @@
 I'm an engineering student, interested by the use of data for solving industrial issue. 
 
 ⚡Look at my projects : <br>
+<!--
+<details><summary> Machine Learning </summary>
+ 
+ <strong> 🚚 [CVRP Heuristic](https://github.com/Kiwy3/CVRP) </strong> <br>
+ * SPLIT Heuristic to solve Capacities Vehicules Routing Problem
+ * ⚙ Python using Pandas, numpy ...
+ 
+</details>
+-->
 
 <details><summary>Heuristics </summary>
  
@@ -12,7 +21,7 @@ I'm an engineering student, interested by the use of data for solving industrial
  
 </details>
 
-<details><summary>Operational Research </summary>
+<details><summary> Mathematic Programming (linear) </summary>
  
  <strong> 🚌 [People distribution on bus](https://github.com/Kiwy3/Bus_wei) </strong> <br>
  * Mathematic model with Solver used to make distribution to go student week-end (integration)
