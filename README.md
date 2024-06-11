@@ -36,6 +36,10 @@ I'm an engineering student, interested by the use of data for solving industrial
  <strong> 📈 [Modelisation of a failures system based on lifetime](https://github.com/Kiwy3/Simu_maintenance) </strong> <br>
  * Jupyter notebook with parameters estimation, Montecarlo simulation with reparation, and maintenance policy
  * ⚙ Python on Jupyter Notebook, using pandas, numpy, scipy stats ...
+
+ <strong> 🏬 [Inventory simulation with 3 parameters stock policy](https://github.com/Kiwy3/Stock_Simulation) </strong> <br>
+ * Course project with simulation using stochastic command, cost implementation, and LateX report for study of the stock policy
+ * ⚙ Python with pandas, json, numpy and math ...
  
 </details>
 
