@@ -28,6 +28,11 @@ I'm an engineering student, interested by the use of data for solving industrial
  <strong> 🚌 [People distribution on bus](https://github.com/Kiwy3/Bus_wei) </strong> <br>
  * Mathematic model with Solver used to make distribution to go student week-end (integration)
  * ⚙ Excel with OpenSolver, Visual Basic
+
+<strong> 💰 [Bundle pricing decision for fresh products](https://github.com/Kiwy3/Pricing_GP30) </strong> <br>
+ * Mathematic model for solving pricing and bundles decision
+ * ⚙ Lingo, Gusek and Gurobi (gurobipy on python)
+ * based on this [this article](https://onlinelibrary.wiley.com/doi/10.1155/2018/1595807)
  
 </details>
 
