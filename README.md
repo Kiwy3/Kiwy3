@@ -1,8 +1,9 @@
 ### Hi, I'm Nathan 
 
-I'm an engineering student, interested by the use of data for solving industrial issue. 
+I'm an engineering student specializing in industrial engineering and operations research, with a keen interest in leveraging data to solve complex industrial challenges. My experience spans data visualization, machine learning, and mathematical modeling, supported by hands-on projects in Python, Power BI, and more. Passionate about continuous learning, I'm eager to contribute to innovative solutions in academic or industrial fields.
 
 <h3 align="left">Projects :</h3>
+Look at some of my projects : 
 
 <!--
 <details><summary> Machine Learning </summary>
@@ -14,7 +15,7 @@ I'm an engineering student, interested by the use of data for solving industrial
 </details>
 -->
 
-<h4 align="left">Heuristics :</h4>
+<h4 align="center">--- Heuristics --- </h4>
 
  
  <strong> 🚚 [CVRP Heuristic](https://github.com/Kiwy3/CVRP) </strong> <br>
@@ -23,7 +24,7 @@ I'm an engineering student, interested by the use of data for solving industrial
  
 </details>
 
-<h4 align="left">Mathematic Programming (linear) :</h4>
+<h4 align="center">--- Mathematic Programming (linear) ---</h4>
  
  <strong> 🚌 [People distribution on bus](https://github.com/Kiwy3/Bus_wei) </strong> <br>
  * Mathematic model with Solver used to make distribution to go student week-end (integration)
@@ -36,7 +37,7 @@ I'm an engineering student, interested by the use of data for solving industrial
  
 </details>
 
-<h4 align="left">Modelisation & simulation :</h4>
+<h4 align="center">--- Modelisation & simulation ---</h4>
  
  <strong> 📈 [Modelisation of a failures system based on lifetime](https://github.com/Kiwy3/Simu_maintenance) </strong> <br>
  * Jupyter notebook with parameters estimation, Montecarlo simulation with reparation, and maintenance policy
@@ -48,7 +49,17 @@ I'm an engineering student, interested by the use of data for solving industrial
  
 </details>
 
-<h4 align="left"> Basic programming :</h4>
+<h4 align="center">--- Machine Learning ---</h4>
+
+ 
+ <strong> 📱 [Classification of Twitter (X) users](https://github.com/Kiwy3/IF29_project) </strong> <br>
+ * Building a user database on mongoDB with a tweet database, and apply supervised / unsupervised machine learning algorithms to classify suspicious/non suspicious
+ * ML Algorithms : Kmeans, Agglomerative Hierarchical Clustering (AHC), PCA, SVM, Neural networks ...
+ * ⚙ Python using Pandas, numpy, scikit-learn, seaborn...
+ 
+</details>
+
+<h4 align="center">--- Basic programming ---</h4>
  
  <strong> 📐 [Polygon Class and function using C++](https://github.com/Kiwy3/cpp_polygon) </strong> <br>
  * Polygon class, with useful fonction to use polygon (convex, simple ... ) 
