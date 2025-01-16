@@ -2,8 +2,11 @@
 
 I'm an engineering student specializing in industrial engineering and operations research, with a keen interest in leveraging data to solve complex industrial challenges. My experience spans data visualization, machine learning, and mathematical modeling, supported by hands-on projects in Python, Power BI, and more. Passionate about continuous learning, I'm eager to contribute to innovative solutions in academic or industrial fields.
 
-<h3 align="left">Projects :</h3>
-Look at some of my projects : 
+<h4 align="center">--- End of studies Internship --- </h4>
+Research internship at BONUS team of the INRIA center of Lille University. Topic : Optimization applied to LLM Fine Tuning. 
+
+<strong> 💻 [Working repository](https://github.com/Kiwy3/Scalable_HPO_LLM) </strong> <br>
+<strong> 📰 [All deliverables (article, report, defence, presentations...)](https://github.com/Kiwy3/ST30-deliverables) </strong> <br>
 
 <!--
 <details><summary> Machine Learning </summary>
