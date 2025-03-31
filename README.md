@@ -4,6 +4,14 @@ After a double degree, Engineer degree in *Industrial Engineering* and master in
 
 My experience from engineering school spans spans data visualization, machine learning, and mathematical modeling, supported by hands-on projects in Python, Power BI, and more. Passionate about continuous learning, I'm eager to contribute to innovative solutions in academic or industrial fields.
 
+### Personnal stats and languages
+
+| [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kiwy3&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api?username=Kiwy3&show_icons=true)](https://github.com/saifurrahman1193) |
+| ----------------------------------------------------------- | ------------------------------------------------------------- |
+
+
+
+
 
 ## End of studies Internship : Hyper-parameter Optimization (HPO) of LLM Fine Tuning
 
